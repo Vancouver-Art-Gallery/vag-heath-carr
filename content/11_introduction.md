@@ -1,0 +1,17 @@
+---
+title: "Introduction"
+order: 11
+layout: essay 
+---
+
+{% figure 'intro1' %}
+
+*Edith Heath and Emily Carr: From the Earth* brings together the work of two artists who had a mutual understanding of the land as the source and meaning of their art. Both found a deep inspiration in the landscape---its colours, light, materials---returning again and again to sites that inspired their creativity and defined their practices.
+
+This exhibition and digital publication builds on an ongoing program that offers opportunities to consider the art of Emily Carr in a different light. Past exhibitions have focused on directly shared histories or on stylistic affinity, while others have pointed to the significance of Carr’s influence on modern and contemporary artists. Emily Carr and Edith Heath never met, but they do share a common identity as modernist women who lived on the West Coast and struggled to build careers in the creative arts that spoke to the specificity of their time and place.
+
+Edith Heath was born in Ida Grove, Iowa in 1911 to a settler family from Denmark. She was trained as a teacher and studied at the School of the Art Institute of Chicago during the mid-1930s. She moved with her husband Brian to San Francisco in 1942 and studied ceramics at the California School of Fine Arts for two years; this is the same school that Emily Carr attended in 1890--93. While studying, Heath also taught art at a progressive co-operative school. During this time the Heaths spent weekends exploring clay pits in California, and Edith Heath conducted independent research on clays, glazes and their chemistry. This commitment to place and process shaped her practice for the remainder of her life. The works selected for this exhibition date from Heath’s early professional career, from the mid-1940s to the late 1950s. It was during this time that she began her annual summer journeys to Vancouver—at first to teach ceramic design and chemistry at the University of British Columbia (1951 and 1952). Soon the trip became a pilgrimage that included Vancouver and Aspen, the site of the legendary International Design Conference, which brought together progressive thinkers and makers in the fields of design and commerce.
+
+Emily Carr was born in Victoria, BC in 1871 to a settler family from England. In 1890, while still in her late teens, she travelled to San Francisco to attend the California School of Design, the same school where Heath studied in the early 1940s. She studied there for three years before returning to Victoria, where she taught children’s art classes, saving enough money to go to England and continue her art studies there from 1899 to 1904. Upon returning to the West Coast, Carr resumed her travels to coastal Indigenous communities where she documented what she feared to be disappearing cultures. Deeply shaped by her education within colonialist traditions of landscape and documentary, she struggled to reconcile her training with her personal experience of the communities, landscape and history. The works she produced at this time were predictable, so much so that Carr conceived of a plan to travel to France in 1910. She hoped to engage with the new ideas and techniques in art that were emerging there. In less than a year she and her art underwent a radical transformation that set the stage for new ways of looking and making. The works selected for this exhibition and related publication reflect Carr’s transformed style and date from the 1930s.
+
+Jay Stewart, Heath Foundation

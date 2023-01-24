@@ -1,116 +1,639 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "carr-42.3.57"
+    src: "carr_works/VAG-42.3.57.crop.jpg"
+    alt: "Oil painting of triangular coniferous trees with orange and red accents."
+    caption: "*Untitled*, 1931--1932"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "carr-42.3.55"
+    src: "carr_works/VAG-42.3.55.jpg"
+    alt: "Oil painting."
+    caption: "*Formalized Trees, Spring*, c. 1933,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "carr-42.3.59"
+    src: "carr_works/VAG-42.3.59.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Untitled*, 1931--1932,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "carr-42.3.62"
+    src: "carr_works/VAG-42.3.62.crop.jpg"
+    alt: "Oil painting of a large tree in a forest with light colours."
+    caption: "*Deep Forest, Lighted*, c. 1935,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "carr-42.3.64"
+    src: "carr_works/VAG-42.3.64.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Three Cedar Trunks*, c. 1937,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "carr-42.3.65"
+    src: "carr_works/VAG-42.3.65.crop.jpg"
+    alt: "Oil painting of a forest scene with tall coniferous trees with a blue sky visible in the upper right corner."
+    caption: "*Forest Edge and Sky*, c. 1934,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "carr-42.3.76"
+    src: "carr_works/VAG-42.3.76.jpg"
+    alt: "Oil painting."
+    caption: "*Young Pines and Old Maple*, 1937--38,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carr-42.3.79"
+    src: "carr_works/VAG-42.3.79.crop.jpg"
+    alt: "Oil painting that depicts a forest clearing in the foreground with triangular trees behind."
+    caption: "*Untitled*, 1933--34,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carr-42.3.82"
+    src: "carr_works/VAG-42.3.82.jpg"
+    alt: "Oil painting."
+    caption: "*Path Among Pines*, c. 1930,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
+  - id: "carr-42.3.83"
+    src: "carr_works/VAG-42.3.83.crop.jpg"
+    alt: "Oil painting."
+    caption: "*Above the Trees*, c. 1939,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
+  - id: "carr-42.3.84"
+    src: "carr_works/VAG-42.3.84.jpg"
+    alt: "Oil painting."
+    caption: "*Untitled*, 1938--39,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "carr-87.17"
+    src: "carr_works/VAG-87.17.crop.jpg"
+    alt: "Oil painting depicting a stump surrounded by a grove of tall coniferous trees with concentric waves of vegetation below and behind."
+    caption: "*Untitled (Forest)*, c. 1936,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
+  - id: "carr-42.3.157"
+    src: "carr_works/VAG-42-3-157-large.jpg"
+    alt: "Forest scene  with wave-like vegetation in the foreground, one prominent conifer flanked by other tall trees with a dark background."
+    caption: "*Untitled*, 1931--32,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+  - id: "carr-42.3.159"
+    src: "carr_works/VAG-42-3-159-large.jpg"
+    alt: "Forest scene  with small conifers against a dark background consisting of diagonally-oriented swaths of foliage."
+    caption: "*Untitled*, 1931--32,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
+  - id: "carr-42.3.160"
+    src: "carr_works/VAG-42-3-160-large.jpg"
+    alt: "Artwork that depicts a single coniferous tree with forest and ridge mountains behind, all rendered in tones of grey."
+    caption: "*Untitled*, 1931--32,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carr-42.3.161"
+    src: "carr_works/VAG-42-3-161-large.jpg"
+    alt: "Deep woods scene with three prominent bare tree trunks, other tree trunks visible in the background and rocks in the foreground."
+    caption: "*Untitled*, 1931--32,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "carr-42.3.169"
+    src: "carr_works/VAG-42-3-169-large.jpg"
+    alt: "Painting of a landscape with a rocky hillside in the foreground, with coniferous trees that stand at the crest and side of the hill."
+    caption: "*Untitled*, 1931--32,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "carr-42.3.13"
+    src: "carr_works/VAG-42.3.13.crop.jpg"
+    alt: "Forest scene with tall trunks of coniferous trees topped by a swirling mass of green vegetation and low vegetation growing at the bases of the trees."
+    caption: "*Forest*, 1931--33,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "carr-42.3.14"
+    src: "carr_works/VAG-42.3.14.crop.jpg"
+    alt: "Woodland scene in which a coniferous tree seems illuminated from above while smaller conifers stand around it with a dense forest visible behind."
+    caption: "*The Little Pine*, 1931,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "carr-42.3.17"
+    src: "carr_works/VAG-42.3.17.jpg"
+    alt: "Forest scene with low waves of vegetation in the foreground, a clearing in the the centre and taller conifers in the background."
+    caption: "*A Rushing Sea of Undergrowth*, 1935,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "carr-42.3.19"
+    src: "carr_works/VAG-42.3.19.jpg"
+    alt: "Forest scene with tall confireous trees against a swirling background of forest and grey sky, with smaller conifers and and two stumps in the foreground."
+    caption: "*Among the Trees*, 1936,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "carr-42.3.25"
+    src: "carr_works/VAG-42.3.25.jpg"
+    alt: "Landscape with bleached and weathered logs and roots in a tangle along the beach wih low conifeorus vegetation and tree trunks in the background."
+    caption: "*Sea Drift at the Edge of the Forest*, 1931,"
+    credit: "Collection of the Vancouver Art Gallery, Emily Carr Trust"
+
+  - id: "ashtray1"
+    src: "exhibition/Carr_Heath_0031.jpg"
+    alt: "Photograph of several astrays displayed in the exhibition."
+    caption: "Ashtrays, various dates. Heath Ceramics California clay and manganese body,"
+    credit: "Collection of the Brian and Edith Heath/Heath Ceramics, Environmental Design Archives, UC Berkeley and Allan Collier, Photo: Ian Lefebvre, Vancouver Art Gallery"
+
+  - id: "ashtray2"
+    src: "exhibition/HeathCarr_128.jpg"
+    alt: "Photograph of several astrays displayed in the exhibition."
+    caption: "Ashtrays, various dates. Heath Ceramics California clay and manganese body,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "caliclay1"
+    src: "exhibition/Heath_Carr_119.jpg"
+    alt: "Photograph of different sized plates, vases, bowls and cups all in ceramic and various colours."
+    caption: "Edith Heath, California clay pieces,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "caliclay2"
+    src: "exhibition/HeathCarr_091.jpg"
+    alt: "Closeup of ceramic bowls and vases."
+    caption: "Edith Heath, California clay pieces,"
+    credit: "Collection of the Brian and Edith Heath Foundation, Photo: Blaine Campbell"
+
+  - id: "caliclay3"
+    src: "exhibition/HeathCarr_076.jpg"
+    alt: "Closeup of ceramic vases."
+    caption: "Edith Heath, California clay pieces,"
+    credit: "Collection of the Brian and Edith Heath Foundation and a Private Collection, Photo: Blaine Campbell"
+
+  - id: "caliclay4"
+    src: "exhibition/HeathCarr_082.jpg"
+    alt: "Photograph of three ceramic plates and three vases in the background."
+    caption: "Edith Heath, California clay pieces,"
+    credit: "Collection of the Brian and Edith Heath Foundation, Photo: Blaine Campbell"
+
+  - id: "conover1"
+    src: "exhibition/Heath_Carr_082.jpg"
+    alt: "Photograph of a Conover cabinet displayed with one sliding door and two levels of shelves holding the ceramic pieces."
+    caption: "One of the recreated Conover cabinets for the exhibition,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "conover2"
+    src: "exhibition/Heath_Carr_091.jpg"
+    alt: "Photograph of an open Conover cabinet holding light coloured ceramic dinnerware."
+    caption: "One of the recreated Conover cabinets for the exhibition,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "conover3"
+    src: "exhibition/Heath_Carr_098.jpg"
+    alt: "Photograph of a closed Conover cabinet."
+    caption: "One of the recreated Conover cabinets for the exhibition,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "gumps1"
+    src: "exhibition/Heath_Carr_004.jpg"
+    alt: "Photograph of an installation with ceramic pieces with an illustrated wall in the background."
+    caption: "Installation of ceramic pieces on a Conover cabinet,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "gumps2"
+    src: "exhibition/HeathCarr_066.jpg"
+    alt: "Photograph of pastel-coloured dinnerware sets displayed on a white surface."
+    caption: "Heath Ceramics dinnerware sets,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "gumps3"
+    src: "exhibition/HeathCarr_072.jpg"
+    alt: "Photograph of a ceramic mug and plate set in pale green with brown specks."
+    caption: "Heath Ceramics cup and matching plate,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "gumps4"
+    src: "exhibition/HeathCarr_062.jpg"
+    alt: "Photograph of a ceramic teapot, plates and mugs in a deep purple with other pieces visible in the background."
+    caption: "Set of dinnerware in Aubergine glaze,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "newcolours1"
+    src: "exhibition/HeathCarr_057.jpg"
+    alt: "Photograph of dinnerware sets in red, green, yellow, dark purple, and orange displayed on a Conover cabinet."
+    caption: "Sets of dinnerware in colourful glazes,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "newcolours2"
+    src: "exhibition/HeathCarr_098.jpg"
+    alt: "Ceramic jars, plates and a kettle in red, dark purple glazes."
+    caption: "Side view of Bright New Colours installation,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "newcolours3"
+    src: "exhibition/HeathCarr_038.jpg"
+    alt: "Ceramic jars, plates and bowls in different colours with a gradient effect."
+    caption: "Dinnerware in spray glazes displayed on a Conover cabinet during the exhibition,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "coupe1"
+    src: "exhibition/Heath_Carr_141.jpg"
+    alt: "Dinnerware in light green, light blue, light orange and beige, with two paintings in the background."
+    caption: "Dinnerware in the four original glazes: Sand, Shining Sand, Sage and Blue,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "coupe2"
+    src: "exhibition/HeathCarr_044.jpg"
+    alt: "Dinnerware in light green, light blue, light orange and beige, displayed in a Conover cabinet."
+    caption: "Dinnerware in the four original glazes: Sand, Shining Sand, Sage and Blue,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "coupe3"
+    src: "exhibition/HeathCarr_116.jpg"
+    alt: "Oil and Vinegar set, bowls, plates, and jar in light orage dinnerware with light green dinnerware in the background."
+    caption: "Dinnerware in one of the four original glazes: Shining Sand,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "coupe4"
+    src: "exhibition/HeathCarr_115.jpg"
+    alt: "salt and pepper shakers, plates and bowls in light green glaze."
+    caption: "Dinnerware in Sage, one of the four original glazes,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "coupe5"
+    src: "exhibition/HeathCarr_093.jpg"
+    alt: "Salt and pepper shakers with a sugar bowl in between, in beige glaze."
+    caption: "Dinnerware in Sand, one of the four original glazes,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "porcelain1"
+    src: "exhibition/HeathCarr_037.jpg"
+    alt: "Photograph of two-toned porcelain-lined dinnerware displayed on a Conover cabinet"
+    caption: "Two-toned porcelain-lined dinnerware pieces in White/Sand, Gold/Apricot and Pumpkin/Brown,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "porcelain2"
+    src: "exhibition/HeathCarr_099.jpg"
+    alt: "Photograph of a sauce serving dish with a matching spoon in tones of yellow"
+    caption: "Two-toned porcelain-lined sauce serving dish in Gold/Apricot glaze,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "porcelain3"
+    src: "exhibition/HeathCarr_102.jpg"
+    alt: "Photograph of a tea pot, big serving bowl, small plates and mugs with brown glaze on the outside and blue on the inside."
+    caption: "Two-toned porcelain-lined dinnerware in Brown/Blue glaze,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "porcelain4"
+    src: "exhibition/HeathCarr_106.jpg"
+    alt: "Top view of dinnerware in two-toned glazes."
+    caption: "Two-toned porcelain-lined dinnerware in Gold/Apricot and Brown/Blue glazes,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "ashtray3"
+    src: "exhibition/HeathCarr_125.jpg"
+    alt: "Four ashtrays stacked on top of each other in brown, red, purple and green glaze."
+    caption: "Different models of ashtrays by Edith Heath,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "barge1"
+    src: "exhibition/Carr_Heath_0008.jpg"
+    alt: "Photograph of the exhibition with a bench, a large image of the Barge on the wall."
+    caption: "Photograph of exhibition set up with the Barge display,"
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"  
+                                 
+  - id: "barge2"
+    src: "exhibition/Carr_Heath_0009.jpg"
+    alt: "Photograph of the exhibition with a bench, a large image of the Barge and visible ceramic pieces on the right side."
+    caption: "Photograph of exhibition set up with the Barge display,"
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"
+
+  - id: "factory1"
+    src: "exhibition/Carr_Heath_0027.jpg"
+    alt: "Photograph with two-toned dinnerware in the foreground and a picture of the Heath Ceramics Factory on the wall behind."
+    caption: "Photograph of exhibition set up with the Heath Ceramics Factory display,"
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"
+
+  - id: "factory2"
+    src: "exhibition/Heath_Carr_003.jpg"
+    alt: "Photograph of dinnerware in the foreground and a picture of the Heath Ceramics Factory in the background."
+    caption: "Photograph of exhibition set up with the Heath Ceramics Factory in the background,"
+    credit: "Photo: Rachel Topham"
+
+  - id: "ubc1"
+    src: "ml_selections/ubc-1.jpg"
+    alt: "Photograph a telegram on yellowed paper and black ink with pencil marks on the bottom of the page."
+    caption: "Telegram inviting Edith Heath to teach in the Extension Department of the University of British Columbia, January 31, 1951,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "marketing1"
+    src: "ml_selections/marketing1.jpg"
+    alt: "Cover of a sales brochure with black backgorund, black and white image of a ceramic plate with a green halo around and white and green letters."
+    caption: "“Heath California Dinnerware” brochure, 1947,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "marketing2"
+    src: "ml_selections/marketing2.jpg"
+    alt: "Inside of a brochure with two light blue illustrations of ceramic pieces, black letters and two visible staples down the middle."
+    caption: "“Heath Pottery Bullocks Wilshire” brochure, 1945--46,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "marketing3"
+    src: "ml_selections/marketing3.jpg"
+    alt: "Plates, bowls, cups and other Heath dinnerware in yellow, purple and blue tones, with decorative fruits."
+    caption: "“Heath Buffet Service” card, 1955,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "ubc2"
+    src: "ml_selections/ubc-2.jpg"
+    alt: "Black and white photograph of three people, one standing in between the other two, in front of a table with ceramic pieces on it."
+    caption: "Edith Heath and unidentified students working with a scale during her second summer workshop located in the new UBC pottery facility, 1952,"
+    credit: "© University of British Columbia Archives [UBC 3.1/1561]"  
+
+  - id: "factory3"
+    src: "ml_selections/factory3.jpg"       
+    alt: "Black and white photo of men working in the background and Heath ashtrays on racks."
+    caption: "Heath Ceramics first Sausalito factory,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley" 
+
+  - id: "barge3"
+    src: "ml_selections/barge.jpg"
+    alt: "Photograph of a brown boat on a shore, surrounded by greenery behind and on the left and the ocean on the right."
+    caption: "The Barge,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"   
+
+  - id: "marketing4"
+    src: "ml_selections/marketing4.jpg"
+    alt: "A woman in a dress organizing stacks of plates, cups, ashtrays and bowls on a long table."
+    caption: "Edith Heath arranging dinnerware on the factory floor, ca. 1955,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "factory4"
+    poster: "ml_selections/factory-still.jpg"       
+    media_id: "OoVnw89MzBI"
+    media_type: "youtube"
+    caption: "Slideshow of archival images of the Heath Ceramics factories,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"
+
+  - id: "barge4"
+    poster: "ml_selections/barge-still.jpg"      
+    media_id: "k0aRybAkLgg"
+    media_type: "youtube"
+    caption: "Slideshow of archival images of the Heath's home, the Barge,"
+    credit: "Brian and Edith Heath/Heath Ceramics Collection, Environmental Design Archives, UC Berkeley"  
+
+  - id: "timeline1"
+    src: "timeline/timeline1.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline2"
+    src: "timeline/timeline2.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline3"
+    src: "timeline/timeline3.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline4"
+    src: "timeline/timeline4.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+   
+  - id: "timeline5"
+    src: "timeline/timeline5.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+    
+  - id: "timeline6"
+    src: "timeline/timeline6.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline7"
+    src: "timeline/timeline7.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+      
+  - id: "timeline8"
+    src: "timeline/timeline8.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+    
+  - id: "timeline9"
+    src: "timeline/timeline9.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+
+  - id: "timeline10"
+    src: "timeline/timeline10.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+      
+  - id: "timeline11"
+    src: "timeline/timeline11.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline12"
+    src: "timeline/timeline12.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline13"
+    src: "timeline/timeline13.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline14"
+    src: "timeline/timeline14.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline15"
+    src: "timeline/timeline15.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline16"
+    src: "timeline/timeline16.png"       
+    alt: ""
+    caption: ""
+    credit: ""   
+ 
+  - id: "timeline17"
+    src: "timeline/timeline17.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline18"
+    src: "timeline/timeline18.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline19"
+    src: "timeline/timeline19.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline20"
+    src: "timeline/timeline20.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline21"
+    src: "timeline/timeline21.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline22"
+    src: "timeline/timeline22.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+             
+  - id: "timeline23"
+    src: "timeline/timeline23.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline24"
+    src: "timeline/timeline24.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+ 
+  - id: "timeline25"
+    src: "timeline/timeline25.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline26"
+    src: "timeline/timeline26.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+
+  - id: "timeline27"
+    src: "timeline/timeline27.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline28"
+    src: "timeline/timeline28.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline29"
+    src: "timeline/timeline29.png"       
+    alt: ""
+    caption: ""
+    credit: ""  
+    
+  - id: "timeline30"
+    src: "timeline/timeline30.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+
+  - id: "timeline31"
+    src: "timeline/timeline31.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline32"
+    src: "timeline/timeline32.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline33"
+    src: "timeline/timeline33.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+        
+  - id: "timeline34"
+    src: "timeline/timeline34.png"       
+    alt: ""
+    caption: ""
+    credit: ""
+     
+  - id: "timeline35"
+    src: "timeline/timeline35.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+
+  - id: "timeline36"
+    src: "timeline/timeline36.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+ 
+  - id: "timeline37"
+    src: "timeline/timeline37.png"       
+    alt: ""
+    caption: ""
+    credit: "" 
+  
+  - id: "timeline38"
+    src: "timeline/timeline38.png"       
+    alt: ""
+    caption: ""
+    credit: ""   
+       
+  - id: "timeline0"
+    src: "timeline/timeline0.jpg"       
+    alt: "Photograph of thrity eight small rectangles with different images and text and photo of Edith Heath on her pottery wheel on top of them."
+    caption: "Installation view of the Edith Heath timeline,"
+    credit: "Photo: Rachel Topham" 
+
+  - id: "intro1"
+    src: "exhibition/HeathCarr_002.jpg"       
+    alt: "Installation view of the title mural of the exhibition, showing the architecture of the Gallery rotunda, with a rounded white banister."
+    caption: "Installation view of entry to the exhibition on the Gallery space,"
+    credit: "Photo: Blaine Campbell"
+
+  - id: "vaglogo-colour"
+    src: "vaglogo-colour.jpg"       
+    alt: "."
+    caption: "."
+    credit: "."
+ 
+  - id: "mosaic"
+    src: "mosaic.png"
+    alt: "."
+    caption: "."
+    credit: "." 
+
+  - id: "polyculture"
+    src: "polyculture.png"
+    alt: "."
+    caption: "."
+    credit: "."   
+
+  - id: "heathlogo"
+    src: "heathlogo.png" 
+    alt: "."
+    caption: "."
+    credit: "."          

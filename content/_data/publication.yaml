@@ -13,8 +13,8 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: From the Earth
+subtitle: Edith Heath | Emily Carr
 reading_line:
 short_title:
 
@@ -26,18 +26,18 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2023-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: 978-1-927656-58-7
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: Vancouver Art Gallery
+    location: Vancouver
     url:
-    logo: logo-getty.png
+    logo: vaglogo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,21 +46,35 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: jstewart
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Jay
+    last_name: Stewart
+    title: Curator
+    affiliation: Heath Foundation
+    bio: "Jay Stewart is the Trustee of the Brian and Edith Heath Foundation. She knew the Heaths from the time of her birth to their deaths; at their request, she assisted with their personal affairs in their later years. Since Edith Heath’s death in 2005, Stewart has devolved the Heaths’ estate, placing their extensive archives at the Environmental Design Archives at the University of California, Berkeley and assembling a study collection of Heath Ceramics’ products. With her husband, Peter Macnair, Stewart is a peripatetic curator, consulting on the material culture and ethnology of First Nations of the Northwest Coast. Exhibitions and publications include *To the Totem Forests: Emily Carr and Contemporaries Interpret Coastal Villages* (Art Gallery of Greater Victoria, 1998), *Down from the Shimmering Sky: Masks of the Northwest Coast* (Vancouver Art Gallery, 1998), *Listening to the Ancestors: The Art of Native Life in the Pacific Northwest* (National Museum of the American Indian, 2000–2006) and *Raven Travelling: Two Centuries of Haida Art* (Vancouver Art Gallery, 2006)."
+
+  - id: jvolland
+    type: primary
+    first_name: Jennifer
+    last_name: Volland
+    title: Curator
+    affiliation: 
+    bio: "Jennifer M. Volland is an independent curator and writer based in Southern California. Since 2014, she has been researching the life and work of ceramicist Edith Heath. In addition to her role as co-curator on *Edith Heath and Emily Carr: From the Earth*, she has been involved in numerous projects related to Heath and Heath Ceramics. She served as a consulting curator on *Edith Heath: A Life in Clay* (Oakland Museum of California, 2021), a co-editor of and contributor to the book *Edith Heath: Philosophies* (2020), and a consulting producer on the award-winning documentary *Heath Ceramics: The Making of a California Classic* (KCET Artbound, 2019). Her past projects include *Cabin Fever* (Vancouver Art Gallery, 2018), *Frank Bros.: The Store That Modernized Modern* (University Art Museum at CSULB, 2017) and *Grand Hotel: Redesigning Modern Life* (Vancouver Art Gallery, 2013). She received her Master of Arts in Architecture from the University of California, Los Angeles."     
+
+  - id: bgrenville
+    type: primary
+    first_name: Bruce
+    last_name: Grenville
+    title: Senior Curator
+    affiliation: Vancouver Art Gallery
+    bio: "Bruce Grenville was the Senior Curator at the Vancouver Art Gallery from 1997 to 2022. During that time he organized many thematic group exhibitions including *The Imitation Game: Visual Culture in the Age of Artificial Intelligence* (2022);  *Cabin Fever* (2018), an historical survey of the cabin typology in North American architecture and visual culture; *MashUp: The Birth of Modern Culture* (2016), an exhibition and publication focused on the history of mashup culture from 1912 to the present; *Massive Change: The Future of Global Design* (2004), a survey of contemporary design, conceived and presented in collaboration with Bruce Mau Design and the Institute Without Boundaries; and *Home and Away: Crossing Cultures on the Pacific Rim* (2003), a look at the work of six artists who share a history of emigration and diaspora on the Pacific Rim. He also organized numerous solo exhibitions for artists including Carol Sawyer, Janet Cardiff and George Bures Miller, Michael Lin, Fiona Tan, Stan Douglas, Franz West, Wang Du, Gathie Falk, Dominique Blain, Komar and Melamid, Arnaud Maggs, Christos Dikeakos, Ruth Cuthand, Mary Scott and Jack Goldstein." 
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2023 Vancouver Art Gallery
 
 license:
   name: Creative Commons Attribution 4.0 International License

@@ -7,26 +7,172 @@ object_display_order:
 
 object_list:
 
-  - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+  - id: 301
+    title: Oil on Paper Paintings
+    artist: Emily Carr 
     figure:
-      - id: "cat-1"
+      - id: "carr-42.3.55"
+      - id: "carr-42.3.57"
+      - id: "carr-42.3.59"
+      - id: "carr-42.3.62"
+      - id: "carr-42.3.64"
+      - id: "carr-42.3.65"
+      - id: "carr-42.3.76"
+      - id: "carr-42.3.79"
+      - id: "carr-42.3.82"
+      - id: "carr-42.3.83"
+      - id: "carr-42.3.84"
+      - id: "carr-87.17"
 
-  - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+  - id: 302
+    title: Charcoal and Oil on Paper
+    artist: Emily Carr 
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
+      - id: "carr-42.3.157"
+      - id: "carr-42.3.159"
+      - id: "carr-42.3.160"
+      - id: "carr-42.3.161"
+      - id: "carr-42.3.169"
+      
+  - id: 303
+    title: Forest Paintings on Canvas 
+    artist: Emily Carr
+    figure:
+      - id: "carr-42.3.13"
+      - id: "carr-42.3.14"
+      - id: "carr-42.3.17"
+      - id: "carr-42.3.19"
+      - id: "carr-42.3.25"
+
+  - id: 406
+    title: Heath Ceramics Ashtrays 
+    artist: Edith Heath 
+    figure:
+      - id: "ashtray1"
+      - id: "ashtray2"
+      - id: "ashtray3"
+
+  - id: 201
+    title: California Clay & Early Experiments 
+    artist: Edith Heath
+    figure:
+      - id: "caliclay1"
+      - id: "caliclay2"
+      - id: "caliclay3"
+      - id: "caliclay4"
+
+  - id: 407
+    title: Luther Conover Cabinets 
+    figure:
+      - id: "conover1"
+      - id: "conover2"
+      - id: "conover3"
+  
+  - id: 202
+    title: Gump's & Hand-thrown to Production 
+    artist: Edith Heath
+    figure:
+      - id: "gumps1"
+      - id: "gumps2"
+      - id: "gumps3"
+      - id: "gumps4"
+
+  - id: 204
+    title: Bright New Colours & Spray Glazes 
+    artist: Edith Heath
+    figure:
+      - id: "newcolours1"
+      - id: "newcolours2"
+      - id: "newcolours3"  
+
+  - id: 203
+    title: Coupe & Original Glazes 
+    artist: Edith Heath
+    figure:
+      - id: "coupe1"
+      - id: "coupe2"
+      - id: "coupe3"
+      - id: "coupe4"
+      - id: "coupe5" 
+
+  - id: 205
+    title: Two-toned Porcelain-lined & Exposed Clay Edge
+    artist: Edith Heath
+    figure:
+      - id: "porcelain1"
+      - id: "porcelain2"
+      - id: "porcelain3"
+      - id: "porcelain4"  
+
+  - id: 402
+    title: The Barge
+    figure:
+      - id: "barge1"
+      - id: "barge2"
+      - id: "barge3"
+      - id: "barge4"
+
+  - id: 403
+    title: The Factory
+    figure:
+      - id: "factory1"
+      - id: "factory2"
+      - id: "factory3"
+      - id: "factory4"
+
+  - id: 405
+    title: Marketing Heath Ceramics 
+    figure:
+      - id: "marketing1"
+      - id: "marketing2"
+      - id: "marketing3" 
+      - id: "marketing4" 
+  
+  - id: 404
+    title: UBC Vancouver
+    figure:
+      - id: "ubc2"
+      - id: "ubc1"
+
+  - id: 408
+    title: Timeline
+    figure:
+      - id: "timeline0"
+      - id: "timeline1"
+      - id: "timeline2"
+      - id: "timeline3"
+      - id: "timeline4"
+      - id: "timeline5"
+      - id: "timeline6"
+      - id: "timeline7"
+      - id: "timeline8"
+      - id: "timeline9"
+      - id: "timeline10"
+      - id: "timeline11"
+      - id: "timeline12"
+      - id: "timeline13"
+      - id: "timeline14"
+      - id: "timeline15"
+      - id: "timeline16"
+      - id: "timeline17"
+      - id: "timeline18"
+      - id: "timeline19"
+      - id: "timeline20"
+      - id: "timeline21"
+      - id: "timeline22"
+      - id: "timeline23"
+      - id: "timeline24"
+      - id: "timeline25"
+      - id: "timeline26"
+      - id: "timeline27"
+      - id: "timeline28"
+      - id: "timeline29"
+      - id: "timeline30"
+      - id: "timeline31"
+      - id: "timeline32"
+      - id: "timeline33"
+      - id: "timeline34"
+      - id: "timeline35"
+      - id: "timeline36"
+      - id: "timeline37"
+      - id: "timeline38"
