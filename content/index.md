@@ -1,5 +1,5 @@
 ---
-title: From the Earth
+title: 
 layout: cover
 order: 1
 menu: false
