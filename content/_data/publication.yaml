@@ -36,7 +36,7 @@ identifier:
 publisher:
   - name: Vancouver Art Gallery
     location: Vancouver
-    url:
+    url: https://www.vanartgallery.bc.ca
     logo: vaglogo.png
 
 # ------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ contributor:
 
   - id: jvolland
     type: primary
-    first_name: Jennifer
+    first_name: Jennifer M.
     last_name: Volland
     title: Curator
     affiliation: 

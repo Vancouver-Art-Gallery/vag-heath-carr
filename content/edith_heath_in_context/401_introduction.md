@@ -1,6 +1,6 @@
 ---
 label:
-title: "Edith Heath in Context"
+title: "Introduction"
 order: 401
 layout: essay
 presentation: 
