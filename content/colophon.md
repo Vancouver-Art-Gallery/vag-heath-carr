@@ -46,7 +46,7 @@ Poly Culture North America
 
 Major Sponsor:
 
-![Mosaic Forest Logo](/_assets/images/mosaic.png)
+![Mosaic Forest Logo](/_assets/images/mosaic.PNG)
 Mosaic Forest Management
 
 Generously supported by:

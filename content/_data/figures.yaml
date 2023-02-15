@@ -621,7 +621,7 @@ figure_list:
     credit: "."
  
   - id: "mosaic"
-    src: "mosaic.png"
+    src: "mosaic.PNG"
     alt: "."
     caption: "."
     credit: "." 
