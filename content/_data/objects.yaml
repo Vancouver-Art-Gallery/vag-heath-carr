@@ -72,10 +72,10 @@ object_list:
     title: Gump's & Hand-thrown to Production 
     artist: Edith Heath
     figure:
-      - id: "gumps2"
-      - id: "gumps1"
-      - id: "gumps3"
       - id: "gumps4"
+      - id: "gumps1"
+      - id: "gumps2"
+      - id: "gumps3"
 
   - id: 204
     title: Bright New Colours & Spray Glazes 
