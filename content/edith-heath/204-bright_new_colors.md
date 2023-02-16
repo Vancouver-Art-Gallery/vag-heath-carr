@@ -14,9 +14,3 @@ As the product line expanded in the late 1940s, Heath formulated brighter glazes
 > Heath dinnerware is designed for the contemporary home---for indoor and outdoor living---designed for durability and function, pleasant whether used on the patio or for formal ware. *(c. 1960)*
 
 Between 1949 and 1951, Heath Ceramics introduced three new glaze combinations. Each was glazed with Sand or Apricot, then over-sprayed on the edges with a darker glaze, creating a gradient effect. This unique application process using a handheld spray gun illustrates Heath's creative use of tools meant for mass production. The resulting blend of colours reflects the California landscape, as do the glaze names---Sea and Sand, Mountain Blue and Brownstone.
-
-{% backmatter %}
-
-Collections of the Brian and Edith Heath Foundation, Heath Ceramics, Catherine Bailey and Robin Petravic, Allan Collier, Julie Muñiz, Tasha Sutcliffe, Chris and Jody Vajda, Estate of Marion and Gordon Smith, and Jay Stewart and Peter Macnair
-
-{% endbackmatter %}

@@ -606,12 +606,12 @@ figure_list:
     src: "timeline/timeline0.jpg"       
     alt: "Photograph of thrity eight small rectangles with different images and text and photo of Edith Heath on her pottery wheel on top of them."
     caption: "Installation view of the Edith Heath timeline,"
-    credit: "Photo: Rachel Topham" 
+    credit: "Photo: Rachel Topham Photography" 
 
   - id: "intro1"
     src: "exhibition/HeathCarr_002.jpg"       
     alt: "Installation view of the title mural of the exhibition, showing the architecture of the Gallery rotunda, with a rounded white banister."
-    caption: "Installation view of entry to the exhibition on the Gallery space,"
+    caption: "Installation view of entry to the exhibition in the Gallery space,"
     credit: "Photo: Blaine Campbell"
 
   - id: "vaglogo-colour"
