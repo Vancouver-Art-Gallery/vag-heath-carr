@@ -5,7 +5,7 @@ order: 401
 layout: essay
 presentation:
 figure:
-  - id: "intro2"  
+  - id: "intro2"
 
 ---
 
