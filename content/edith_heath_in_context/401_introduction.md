@@ -2,8 +2,8 @@
 label:
 title: "Introduction"
 order: 401
-layout: essay
-presentation:
+layout: entry
+presentation: side-by-side
 object:
  - id: "401"
 ---
