@@ -13,20 +13,20 @@ url: 'http://fromtheearthexhibition.ca/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: From the Earth
-subtitle: Edith Heath | Emily Carr
+title: Edith Heath and Emily Carr
+subtitle: From the Earth
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: ""
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2023-12-01 # YYYY-MM-DD
+pub_date: 2023-03-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Bruce Grenville, Jay Stewart and Jennifer M. Volland
 
 contributor:
   - id: jstewart

@@ -13,9 +13,10 @@ Copyeditor and production coordinator: Natalia Camacho H.
 Design: Michael Lis, Goodweather Studio
 Photography and Digital Image Preparation: Ian Lefebvre, Vancouver Art Gallery; Rachel Topham and Blaine Campbell
 
-<br/>
-{% backmatter %}
+Lenders to the Exhibition: Catherine Bailey and Robin Petravic; Brian and Edith Heath Foundation; Allan Collier; Environmental Design Archives, UC Berkeley; Heath Ceramics; Bill Janyk; Julie Muñiz; Estate of Marion and Gordon Smith; Jay Stewart and Peter Macnair; Tasha Sutcliffe; Chris and Jody Vajda; Joni and Stephen Vajda.
 
+<br/>
+<br/>
 This publication was created using Quire<sup>TM</sup>, a multiplatform publishing tool created by the J. Paul Getty Trust
 
 © 2023 Vancouver Art Gallery
@@ -24,7 +25,7 @@ ISBN 978-1-927656-58-7
 
 All rights reserved. No part of this book may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, without the prior written consent of the publisher.
 
-{% endbackmatter %}
+
 
 <br/>
 <br/>
