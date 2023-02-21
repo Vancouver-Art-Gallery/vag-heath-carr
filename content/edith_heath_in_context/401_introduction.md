@@ -4,7 +4,7 @@ title: "Introduction"
 order: 401
 layout: essay
 presentation:
-figure:
+object:
  - id: "intro2"
 ---
 
