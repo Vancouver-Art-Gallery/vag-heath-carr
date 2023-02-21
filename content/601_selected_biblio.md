@@ -10,7 +10,7 @@ The following links, books and exhibitions are related to both Emily Carr and Ed
 Baldissera, Lisa. [*Emily Carr: Life & Work*](https://www.aci-iac.ca/art-books/emily-carr/). Toronto: Art Canada Institute, 2015. 
 Carr, Emily. [*Growing Pains: The Autobiography of Emily Carr*](http://dx.doi.org/10.14288/1.0380039). Toronto: Oxford University Press, 1946.
 Carr, Emily. *The Heart of a Peacock*. Toronto: Irwin Publishing, 1953. 
-Carr, Emily. [*Hundreds and Thousands: The Journals of Emily Carr*] (https://open.library.ubc.ca/collections/bcbooks/items/1.0380423). Toronto: Clarke, Irwin & Company, 1966.
+Carr, Emily. [*Hundreds and Thousands: The Journals of Emily Carr*](https://open.library.ubc.ca/collections/bcbooks/items/1.0380423). Toronto: Clarke, Irwin & Company, 1966.
 Carr, Emily. [*Fresh Seeing*](https://www.fadedpage.com/showbook.php?pid=20200801). Toronto: Clarke, Irwin & Company, 1972. 
 Durant, Jessie and Emily Vigor (curators). “The Legacy of Edith Heath.” [*Edith Heath: A Handful of Clay*](https://exhibits.ced.berkeley.edu/exhibits/show/edithheath). University of California, Berkeley. May 22, 2014--September 19, 2014.
 “Emily Carr.” in [Google Arts and Culture](https://artsandculture.google.com/entity/emily-carr/m01qjpm?hl=en).

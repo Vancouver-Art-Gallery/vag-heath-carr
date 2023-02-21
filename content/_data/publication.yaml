@@ -31,13 +31,13 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn: 978-1-927656-58-7
+  isbn: "978-1-927656-58-7"
 
 publisher:
-  - name: Vancouver Art Gallery
-    location: Vancouver
-    url: https://www.vanartgallery.bc.ca
-    logo: vaglogo.png
+  - name: "Vancouver Art Gallery"
+    location: "Vancouver"
+    url: "https://www.vanartgallery.bc.ca"
+    logo: "vaglogo.png"
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -111,10 +111,10 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / Subjects & Themes / Collections, Catalogs, Exhibitions / General
+    identifer: ART006000
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: exhibition, ceramics, Emily Carr, Edith Heath
 
 # ------------------------------------------------------------------------------
 # Revision History
