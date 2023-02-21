@@ -3,7 +3,9 @@ label:
 title: "Introduction"
 order: 401
 layout: essay
-presentation: 
+presentation:
+figure:
+  - id: "intro2"  
 
 ---
 

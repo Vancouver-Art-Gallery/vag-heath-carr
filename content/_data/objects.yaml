@@ -46,7 +46,7 @@ object_list:
 
   - id: 406
     title: Heath Ceramics Ashtrays 
-    artist: Edith Heath 
+    artist: 
     figure:
       - id: "ashtray1"
       - id: "ashtray2"
