@@ -123,8 +123,9 @@ object_list:
   - id: 405
     title: Marketing Heath Ceramics 
     figure:
-      - id: "marketing2"
+      - id: "marketing5"
       - id: "marketing1"
+      - id: "marketing2"
       - id: "marketing3" 
       - id: "marketing4" 
   
