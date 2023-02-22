@@ -104,6 +104,10 @@ resource_link:
     name: Terms of Use
     link_relation: terms-of-service
     url:
+  - type: footer-link
+    name: Vancouver Art Gallery website
+    link_relation: external
+    url: https://www.vanartgallery.bc.ca
 
 # ------------------------------------------------------------------------------
 # Subjects

@@ -64,7 +64,7 @@ The Vancouver Art Gallery is a not-for-profit organization supported by its memb
 
 <br/>
 
-![Vancouver Art Gallery Logo](/_assets/images/vaglogo-colour.jpg)
+[![Vancouver Art Gallery Logo](/_assets/images/vaglogo-colour.jpg)](https://www.vanartgallery.bc.ca)
 
 Vancouver Art Gallery
 750 Hornby Street, Vancouver, BC, V6Z 2H7
