@@ -9,7 +9,7 @@ Published in conjunction with the exhibition *Edith Heath and Emily Carr: From t
 <br/>
 
 Editor: Stephanie Rebick
-Copyeditor and production coordinator: Natalia Camacho H.
+Copyeditor and production coordinator: Natalia Camacho Henao
 Design: Michael Lis, Goodweather Studio
 Photography and Digital Image Preparation: Ian Lefebvre, Vancouver Art Gallery; Rachel Topham and Blaine Campbell
 

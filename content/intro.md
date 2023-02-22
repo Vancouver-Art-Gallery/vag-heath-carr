@@ -24,5 +24,5 @@ The Brian & Edith Heath Foundation manifests its commitment to scholarship and t
 Finally, I extend my deep appreciation to the Board of Trustees of the Vancouver Art Gallery for their continued commitment and support for our ambitious and interdisciplinary programming.
 
 <br/>
-Anthony Kiendl, CEO & Director
+Anthony Kiendl, CEO & Director<br/>
 Vancouver Art Gallery 
