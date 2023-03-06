@@ -29,12 +29,13 @@ All rights reserved. No part of this book may be reproduced, stored in a retriev
 
 <br/>
 <br/>
-Publication Support:
+
+**Publication Support:**
 
 Visionary Partner for Scholarship and Publications:
 The Richardson Family
 
-Exhibition Support:
+**Exhibition Support:**
 
 Major Supporters:
 Brian and Edith Heath Foundation
@@ -43,12 +44,10 @@ Kimberly Cudney and Fraser Phillips
 Major Community Partner:
 
 ![Poly Culture Logo](/_assets/images/polyculture.png)
-Poly Culture North America
 
 Major Sponsor:
 
 ![Mosaic Forest Logo](/_assets/images/mosaic.PNG)
-Mosaic Forest Management
 
 Generously supported by:
 The McLean Foundation
@@ -56,7 +55,6 @@ The McLean Foundation
 Additional Support:
 
 ![Heath Ceramics Logo](/_assets/images/heathlogo.png)
-Heath Ceramics
 
 
 
