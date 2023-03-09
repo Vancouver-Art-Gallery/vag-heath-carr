@@ -35,6 +35,8 @@ All rights reserved. No part of this book may be reproduced, stored in a retriev
 Visionary Partner for Scholarship and Publications:
 The Richardson Family
 
+The Jack and Doris Shadbolt Endowment for Research and Publications
+
 **Exhibition Support:**
 
 Major Supporters:
