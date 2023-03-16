@@ -1,5 +1,5 @@
 
-.hangingindent {
-  padding-left: 22px ;
-  text-indent: -22px ;
+$hangingindent {
+   padding-left: 22px;
+   text-indent: -22px;
 }
