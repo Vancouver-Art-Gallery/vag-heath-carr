@@ -649,3 +649,9 @@ figure_list:
     alt: "Installation view of the Marketing section of the exhibition, with a colourful mural and smaller brochures in front."
     caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
     credit: "Photo: Blaine Campbell"    
+
+  - id: "intro3"
+    src: "exhibition/Carr_Heath_0026.jpg"       
+    alt: "Installation view of the exhibition, with a black and white mural in the background and two cabinets holding ceramic pieces in several colours."
+    caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"        
