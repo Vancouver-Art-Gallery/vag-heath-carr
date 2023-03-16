@@ -107,9 +107,8 @@ object_list:
   - id: 402
     title: The Barge
     figure:
-      - id: "barge1"
-      - id: "barge2"
       - id: "barge3"
+      - id: "barge1"
       - id: "barge4"
 
   - id: 403
