@@ -23,4 +23,4 @@ Klausner, Amos. *Heath Ceramics: The Complexity of Simplicity*. San Francisco: C
 Volland, Jennifer M. (curator). [*Edith Heath: A Life in Clay*](https://museumca.org/on-view/edith-heath-a-life-in-clay/). Oakland Museum of California. January 29, 2022--October 30, 2022. 
 Volland, Jennifer and Chris Marino, eds. [*Edith Heath: Philosophies*](https://shop.vanartgallery.bc.ca/products/edith-heath-philosophies). Vancouver: Information Office; Berkeley: Berkeley Design Books, 2021.
 
-</p>
+<p>
