@@ -66,7 +66,7 @@ object_list:
     figure:
       - id: "conover1"
       - id: "conover2"
-      - id: "conover3"
+      - id: "conover4"
   
   - id: 202
     title: Gump's & Hand-thrown to Production 
@@ -83,7 +83,7 @@ object_list:
     figure:
       - id: "newcolours1"
       - id: "newcolours2"
-      - id: "newcolours3"  
+      - id: "newcolours4"  
 
   - id: 203
     title: Coupe & Original Glazes 

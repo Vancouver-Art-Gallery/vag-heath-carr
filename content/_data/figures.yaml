@@ -654,4 +654,16 @@ figure_list:
     src: "exhibition/Carr_Heath_0026.jpg"       
     alt: "Installation view of the exhibition, with a black and white mural in the background and two cabinets holding ceramic pieces in several colours."
     caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
-    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"        
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"
+
+  - id: "newcolours4"
+    src: "exhibition/Carr_Heath_0035.jpg"
+    alt: "Ceramic bowls, plates and teapots in blue, green and browns hues, with two paitings by Emily Carr, depicting forests scenes in green and brown colours in the background."
+    caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"              
+
+  - id: "conover4"
+    src: "exhibition/Heath_Carr_064.jpg"
+    alt: "Photograph of two closed Conover cabinets holding ceramics pieces with the Barge mural and three Emily Carr in the background."
+    caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
+    credit: "Photo: Rachel Topham Photography"    
