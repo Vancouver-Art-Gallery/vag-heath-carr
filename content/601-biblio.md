@@ -24,13 +24,13 @@ Durant, Jessie and Emily Vigor (curators). [*Edith Heath: A Handful of Clay*](ht
 
 [Emily Carr Timeline](https://royalbcmuseum.bc.ca/visit/exhibitions/online-exhibitions/emily-carr-timeline).
 
-Heath, Edith. “Tableware and Tile for the World, Heath Ceramics.” Interview by Rosalie Ross. 1990-1992, 1994. Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1995.
+ Gordon Shearer, Julie and Germaine LaBerge (eds.). [*Edith Heath. Tableware and Tile for the World, Heath Ceramics, 1944--1994*](https://digitalassets.lib.berkeley.edu/rohoia/ucb/text/tablewaretile00heatrich.pdf). Interviews by Rosalie Ross. 1990-1992, 1994. Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1995.
 
 [“Heath Ceramics: The Making of a California Classic.”](https://www.kcet.org/shows/artbound/episodes/heath-ceramics-the-making-of-a-california-classic) in *Artbound*, produced by KCET, video, 54:58. May 23, 2019. 
 
-Klausner, Amos. *Heath Ceramics: The Complexity of Simplicity*. San Francisco: Chronicle Books, 2006. 
-
 Johnson, Drew and Jennifer Volland (curators). [*Edith Heath: A Life in Clay*](https://museumca.org/on-view/edith-heath-a-life-in-clay/). Oakland Museum of California. January 29, 2022--October 30, 2022. 
+
+Klausner, Amos. [*Heath Ceramics: The Complexity of Simplicity*](https://www.chroniclebooks.com/products/heath-ceramics). San Francisco: Chronicle Books, 2006. 
 
 Volland, Jennifer and Chris Marino, eds. [*Edith Heath: Philosophies*](https://shop.vanartgallery.bc.ca/products/edith-heath-philosophies). Vancouver: Information Office; Berkeley: Berkeley Design Books, 2020.
 
