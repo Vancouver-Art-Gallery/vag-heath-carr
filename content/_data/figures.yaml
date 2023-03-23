@@ -225,7 +225,7 @@ figure_list:
   - id: "newcolours3"
     src: "exhibition/HeathCarr_038.jpg"
     alt: "Ceramic jars, plates and bowls in different colours with a gradient effect."
-    caption: "Heath Ceramics, Coupe dinnerware line in Sea and Sand and Mountain Blue (left to right, foreground) and Green Lustre (background),"
+    caption: "."
     credit: "Photo: Blaine Campbell"
 
   - id: "coupe1"
@@ -604,7 +604,7 @@ figure_list:
        
   - id: "timeline0"
     src: "timeline/timeline0.jpg"       
-    alt: "Photograph of thrity eight small rectangles with different images and text and photo of Edith Heath on her pottery wheel on top of them."
+    alt: "Photograph of thrity eight small rectangles with different images and text, and photo of Edith Heath on her pottery wheel on top of them."
     caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
     credit: "Photo: Rachel Topham Photography" 
 
@@ -659,7 +659,7 @@ figure_list:
   - id: "newcolours4"
     src: "exhibition/Carr_Heath_0035.jpg"
     alt: "Ceramic bowls, plates and teapots in blue, green and browns hues, with two paitings by Emily Carr, depicting forests scenes in green and brown colours in the background."
-    caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
+    caption: "Heath Ceramics, Coupe dinnerware line in Sea and Sand and Mountain Blue (left to right, foreground) and Green Lustre (background),"
     credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"              
 
   - id: "conover4"
