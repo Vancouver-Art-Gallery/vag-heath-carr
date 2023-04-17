@@ -678,4 +678,10 @@ figure_list:
     src: "exhibition/Carr_Heath_0007.jpg"
     alt: "Photograph displaying four ceramic pieces, from left to right: one beige plate a brown vase on top of a white cube, a blue and brown vase and a smaller purple and beige vase, all of different sizes."
     caption: "Installation view of *Edith Heath and Emily Carr: From the Earth*, exhibition at the Vancouver Art Gallery, July 10, 2021 to March 13, 2022,"
-    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery"      
+    credit: "Photo: Ian Lefebvre, Vancouver Art Gallery" 
+
+  - id: "carr"
+    src: "carr.jpg"
+    alt: "Sepia-toned photograph of Emily Carr in her studio with one of her paintings depicting a big tree in the background."
+    caption: "Harold Mortimer-Lamb, *Emily Carr in Her Studio*, 1939, silver gelatin print"
+    credit: "Collection of the Vancouver Art Gallery, Gift of Claudia Beck and Andrew Gruft"          
