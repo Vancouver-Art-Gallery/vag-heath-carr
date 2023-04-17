@@ -133,6 +133,8 @@ object_list:
     figure:
       - id: "ubc2"
       - id: "ubc1"
+      - id: "ubc3"
+      - id: "ubc4"
 
   - id: 408
     title: Timeline
