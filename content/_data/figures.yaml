@@ -683,5 +683,11 @@ figure_list:
   - id: "carr"
     src: "carr.jpg"
     alt: "Sepia-toned photograph of Emily Carr in her studio with one of her paintings depicting a big tree in the background."
-    caption: "Harold Mortimer-Lamb, *Emily Carr in Her Studio*, 1939, silver gelatin print"
-    credit: "Collection of the Vancouver Art Gallery, Gift of Claudia Beck and Andrew Gruft"          
+    caption: "Harold Mortimer-Lamb, *Emily Carr in Her Studio*, 1939, silver gelatin print,"
+    credit: "Collection of the Vancouver Art Gallery, Gift of Claudia Beck and Andrew Gruft" 
+
+  - id: "heath"
+    src: "SI-heath.jpg"
+    alt: "Sepia-toned photograph of Edith Heath working on the potery wheel."
+    caption: "Edith Heath, c. 1930. Miscellaneous photographs collection, circa 1845--1980,"
+    credit: "Archives of American Art, Smithsonian Institution"               
