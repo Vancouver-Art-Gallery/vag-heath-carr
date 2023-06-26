@@ -99,10 +99,6 @@ resource_link:
     name: Vancouver Art Gallery website
     link_relation: external
     url: https://www.vanartgallery.bc.ca
-  - type: other-format
-    name: PDF
-    link_relation: alternate
-    url: /downloads/heath-carr.pdf
 
 # ------------------------------------------------------------------------------
 # Subjects
